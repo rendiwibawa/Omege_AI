@@ -1,4 +1,3 @@
-# Omege_AI
 # SPEECH RECOGNITION AI
 
 <p align="center">
